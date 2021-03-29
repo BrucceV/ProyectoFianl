@@ -9,7 +9,7 @@ djangorestframework-oauth==1.1.0
 idna==2.8
 mysqlclient==1.4.4
 oauthlib==3.1.0
-Pygments==2.5.2
+Pygments==2.7.4
 pytz==2019.2
 requests==2.22.0
 sqlparse==0.3.0
